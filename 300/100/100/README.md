@@ -2,6 +2,8 @@
 
 Based on "Home Assistant Community Store (HACS) - Community Guides" at https://hacs.xyz/docs/community_guides 
 
+Based on "04 Automatische Backups mit Auto Backup und Node-RED und HACS Installation" at https://www.youtube.com/watch?v=-wWi6m7g0m0
+
 ## 100 - Setup Home Assistant Community Store (HACS)
 
 Based on "Setup" at https://hacs.xyz/docs/setup/prerequisites
